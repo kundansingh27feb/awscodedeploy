@@ -1,2 +1,2 @@
-# awscodedeploy
-deployment of code in aws using CodeDeploy Tool
+# aws-codedeploy-linux
+This is a simple websites that can be deployed using AWS Code Services
